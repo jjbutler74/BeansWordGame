@@ -1,0 +1,7 @@
+C:\GitHub\BeansWordGame\bin\Beans Word Game.exe
+C:\GitHub\BeansWordGame\bin\Beans Word Game.xml
+C:\GitHub\BeansWordGame\obj\Release\BeansWordGame.frmMain.resources
+C:\GitHub\BeansWordGame\obj\Release\BeansWordGame.Resources.resources
+C:\GitHub\BeansWordGame\obj\Release\Beans Word Game.vbproj.GenerateResource.Cache
+C:\GitHub\BeansWordGame\obj\Release\Beans Word Game.exe
+C:\GitHub\BeansWordGame\obj\Release\Beans Word Game.xml
